@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mutata</string>
+
+
+    <string name="opcion1">About</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+
+    <string name="perfilnombre">Johana Andrea Moreno</string>
+    <string name="perfil">
+        I am a systems technician graduated from CESDE;
+        I am currently serving as Administrative and Financial Manager
+        at a private label perfume company called ILMIN.
+        My purpose is to be able to apply the knowledge acquired in this technique
+        to help the brand grow, since these tools are currently
+        They are the most effective for making anyone known and reaching all types
+        markets.
+    </string>
+
+    <string name="vermas">SEE MORE +</string>
+
+
+
+</resources>

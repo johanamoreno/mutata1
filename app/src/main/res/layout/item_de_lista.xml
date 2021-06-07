@@ -72,7 +72,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:textAlignment="textEnd"
-                    android:text="VER MAS +"
+                    android:text="@string/vermas"
                     android:paddingTop="30dp"
                     android:textSize="18sp"
                     android:textColor="@color/black"/>

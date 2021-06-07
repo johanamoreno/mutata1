@@ -1,3 +1,21 @@
 <resources>
-    <string name="app_name">mutata</string>
+    <string name="app_name">Mutata</string>
+
+    <string name="opcion1">Acerca de</string>
+    <string name="opcion2">Ingles</string>
+    <string name="opcion3">Español</string>
+
+    <string name="perfilnombre">Johana Andrea Moreno</string>
+    <string name="perfil">
+        Soy tecnica en sistemas egresada del CESDE;
+        Actualmente me desempeño como Gerente Adminiatrativa y Financiera
+        en una empresa de perfumes con marca propia llamada ILMIN.
+        Mi proposito es poder aplicar los conocimientos adquiridos en esta tecnica
+        para ayudar a crecer la marca, ya que en la actualidad estas herramientas
+        son las mas eficaces para hacer conocer culquier producto y llegar a todo tipo
+        de mercados.
+    </string>
+
+    <string name="vermas">VER MAS +</string>
+
 </resources>

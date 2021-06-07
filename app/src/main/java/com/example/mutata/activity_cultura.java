@@ -6,10 +6,16 @@ import android.os.Bundle;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.google.firebase.firestore.FirebaseFirestore;
+
+import java.util.HashMap;
+import java.util.Map;
+
 public class activity_cultura extends AppCompatActivity {
 
     ImageView fotoActividad;
     TextView tituloActividad, descripcionActividad, descripcionCultura, textoActividadCultura;
+
 
     Actividad cultural;
 
@@ -24,8 +30,11 @@ public class activity_cultura extends AppCompatActivity {
 
         cultural=(Actividad) getIntent().getSerializableExtra("cultural");
 
-        fotoActividad.setImageResource(cultural.getFotoActividad());
+        //fotoActividad.setImageResource(cultural.getFotoActividad());
         tituloActividad.setText(cultural.getDescripcionActividad());
         descripcionCultura.setText(cultural.getDescripcionCultura());
+
+
+
     }
 }
